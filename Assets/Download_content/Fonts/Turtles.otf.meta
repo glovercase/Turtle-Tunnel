@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 540c3305fcb404462a2ea0acccbf6136
+timeCreated: 1492944808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Turtles
+  fontNames:
+  - Turtles
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
